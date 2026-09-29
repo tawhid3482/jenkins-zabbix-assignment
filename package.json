@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-zabbix-demo",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node -e \"console.log('Build successful')\"",
+    "test": "node test.js"
+  }
+}
